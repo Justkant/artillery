@@ -22,6 +22,7 @@ const wl = require('./weighted-pick');
 const Engines = {
   http: {},
   ws: {},
+  engineio: {},
   socketio: {}
 };
 

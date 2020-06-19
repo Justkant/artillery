@@ -54,6 +54,7 @@
     "deep-equal": "^1.0.1",
     "deep-for-each": "^3.0.0",
     "driftless": "^2.0.3",
+    "engine.io-client": "^3.4.3",
     "esprima": "^4.0.0",
     "filtrex": "^0.5.4",
     "got": "^11.1.2",
